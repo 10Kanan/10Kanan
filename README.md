@@ -3,21 +3,15 @@ Phornlapat</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 Transitioning from a mechanical engineer to the world of software development. 
+- 🤝 Transitioning from a mechanical engineer to the world of software development. Let's get to know me better 🍀 <a href="https://www.techupth.com/" target="blank">My Portfolio</a>  
 
-- 🌱 "I'm currently completing my full-stack software development bootcamp at <a href="https://www.techupth.com/" target="blank">TechUp</a>
+- 🌱 I'm currently completing my full-stack JavaScript software development bootcamp at <a href="https://www.techupth.com/" target="blank">TechUp</a>
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for jobs hiring and meeting new experiences.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning TypeScript & Next.js 
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 🤝 How to reach me 📩 **phornlapat.p@gmail.com**
 <br/>
 
 ### Project Description Overview
