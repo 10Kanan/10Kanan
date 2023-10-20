@@ -3,9 +3,9 @@ Phornlapat</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 Transitioning from a mechanical engineer to the world of software development. 
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 "I'm currently completing my full-stack software development bootcamp at <a href="https://www.techupth.com/" target="blank">TechUp</a>
 
 - 🤝 I’m available for freelancing.
 
@@ -20,7 +20,7 @@ Phornlapat</a></h1>
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
-### Blogs posts
+### Project Description Overview
 
 <!-- BLOG-POST-LIST:START -->
 
