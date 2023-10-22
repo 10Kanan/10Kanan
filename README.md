@@ -16,24 +16,6 @@ Phornlapat</a></h1>
 
 ### Project Description Overview
 
-<!-- BLOG-POST-LIST:START -->
 
-- [Pet-Sitter-App](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [MerryMatch-App](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
-### Tools and Technologies that I know
-
-<!---LIST:START -->
-
- ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!---LIST:END -->
-
----
 
 
