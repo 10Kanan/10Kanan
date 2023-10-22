@@ -3,7 +3,7 @@ Phornlapat</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤝 Transitioning from a mechanical engineer to the world of software development. Let's get to know me better 🍀 <a href="https://master--super-conkies-69b739.netlify.app/portfolio/merrymatch" target="blank">My Portfolio</a>  
+- 🤝 Transitioning from a mechanical engineer to the world of software development. Let's get to know me better 🍀 <a href="https://master--super-conkies-69b739.netlify.app/portfolio" target="blank">My Portfolio</a>  
 
 - 🌱 I'm currently completing my full-stack JavaScript software development bootcamp at <a href="https://www.techupth.com/" target="blank">TechUp</a>
 
